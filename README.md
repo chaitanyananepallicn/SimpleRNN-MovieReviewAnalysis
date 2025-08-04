@@ -6,7 +6,7 @@ This project uses a Recurrent Neural Network (RNN) to perform sentiment analysis
 ## Live Application
 
 **You can access the live deployed application here:**
-[**➡️ Live Sentiment Analyzer App**](https://simplernn-moviereviewanalysis-4ueajt6dyngdyv6ytj2jda.streamlit.app/) *(Note: Replace with your actual deployment URL)*
+[**➡️ Live Sentiment Analyzer App**](https://simplernn-moviereviewanalysis-4ueajt6dyngdyv6ytj2jda.streamlit.app/)
 
 ---
 
@@ -48,7 +48,7 @@ Follow these steps in your terminal. The order is important.
 
 **1. Clone the repository:** This downloads the project files to your computer.
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone https://github.com/chaitanyananepallicn/SimpleRNN-MovieReviewAnalysis.git
 ```
 
 **2. Install the required dependencies:** This command reads the `requirements.txt` file and installs all the necessary Python libraries.
