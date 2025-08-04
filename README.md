@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 **3. Navigate into the project directory:** You must be inside this folder to access the necessary files.
 ```bash
-cd your-repo-name
+cd MovieReviewAnalysis(Simple RNN)
 ```
 
 **4. Run the Streamlit application:**
@@ -73,7 +73,7 @@ Open your web browser and navigate to the local URL provided by Streamlit (usual
 
 To run this project, your directory should contain the following essential files:
 ```
-└── Movie-Review-Sentiment-Analyzer/
+└── MovieReviewAnalysis(Simple RNN)/
     ├── app.py             # The Streamlit application script
     ├── model.keras        # The pre-trained Keras model file
     └── requirements.txt   # A file listing the project dependencies
